@@ -1,5 +1,7 @@
 html{
     scroll-behavior: smooth;
-    margin: 0;
-    font-size: 18px;
+}
+* {margin: 0;padding: 0;}
+img {
+    width: 400px;
 }
